@@ -16,7 +16,7 @@ I like to be constantly learning and updating my knowledge, so I'm always lookin
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=jcarlos5&show_icons=true&line_height=28&card_width=450" alt="Github stats" />
   </a>
   <a href="https://github.com/jcarlos5#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos5&layout=compact" alt="Language stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos5&layout=compact&langs_count=10" alt="Language stats" />
    </a>
 </div>
 
@@ -26,7 +26,7 @@ I like to be constantly learning and updating my knowledge, so I'm always lookin
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=jcarlos5&show_icons=true&line_height=28&card_width=450&theme=dark&bg_color=000000&border_color=333333" alt="Github stats" />
   </a>
   <a href="https://github.com/jcarlos5#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos5&layout=compact&theme=dark&bg_color=000000&border_color=333333" alt="Language stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos5&layout=compact&langs_count=10&theme=dark&bg_color=000000&border_color=333333" alt="Language stats" />
   </a>
 </div>
 
